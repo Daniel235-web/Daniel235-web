@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+    
   🔭 **Opened to collaboration **
     
  🔭 I’m currently working on **a MERN REALESTATE WEBSITE**
