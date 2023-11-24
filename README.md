@@ -18,7 +18,7 @@
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Daniel235-web)**
 
- ⚡ Fun fact **When you me outside just call me Sheperd!..lol. we are automatically friends**
+ ⚡ Fun fact **Call me an expert?..No!....I will always be a student in the game**
  
  </div>
  
