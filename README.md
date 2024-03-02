@@ -65,7 +65,7 @@
   
   
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-akinyemi&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daniel235-web&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
 
 <br/><br/>
