@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" color="blue">
     <h1>
         The Code Bender (Full-Stack Engineer)
     </h1>
