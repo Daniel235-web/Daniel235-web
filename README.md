@@ -19,9 +19,9 @@
     
   🔭 **Opened to collaboration **
     
- 🔭 I’m currently working on **a MERN REALESTATE WEBSITE**
+ 🔭 I’m currently working on **a Digital Marketing Website**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **EC2 and Serverless AWS**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/Daniel235-web)**
 
