@@ -1,4 +1,4 @@
-<div align="center" color="blue">
+<div align="center">
     <h1>
         The Code Bender (Full-Stack Engineer)
     </h1>
@@ -15,7 +15,7 @@
 
 <br/>
 
-<div align="center">
+<div align="right">
     
   🔭 **Opened to collaboration **
     
