@@ -15,7 +15,7 @@
 
 <br/>
 
-<div align="right">
+<div align="left">
     
   🔭 **Opened to collaboration **
     
