@@ -1,8 +1,4 @@
-<div align="center">
-    <h1>
-        The Code Bender (Full-Stack Engineer)
-    </h1>
-        
+**`The Code Bender (Full-Stack Engineer)`**
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
